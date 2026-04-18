@@ -15,6 +15,13 @@ To install the dependencies use pip and the requirements.txt in this directory. 
 ```
     $ pip install -r requirements.txt
 ```
+
+If you are using uv, use:
+
+```
+
+    $ uv sync
+```
 ## Your Task
 
 You will note that the agent file in this directory is full of blanks, and if you compile the model as is, it will not work. Your task is to fix it! The comments in the code describe what you should try to do in filling blanks, and each blank represents a bit of code in my complete version (i.e. you can do this successfully with the number of lines in the current file). That said, feel free to be creative in your implementations; there is always more than one way to do it!
